@@ -1,5 +1,5 @@
 {
-  "name": "Pyrogram String Session Generator",
+  "name": "KANNADIGA SSGEN",
   "description": "Telegram bot to generate pyrogram string session",
   "logo": "https://telegra.ph/file/7ec22c82f580a334dd13e.jpg",
   "keywords": [
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/StringSessionBot",
+  "repository": "https://github.com/MR-KANNADIGA/KANNADIGA-SSGEN",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": ""
+      "value": "@NAAN_1_KANNADIGA"
     }
   }
 }
