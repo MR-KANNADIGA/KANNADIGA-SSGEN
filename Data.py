@@ -12,31 +12,31 @@ If you don't trust this bot,
 1) stop reading this message
 2) delete this chat
 
-Still reading?
+Still reading? then join @Naan_1_Kannadiga and @Masti_in_Dosti
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @StarkBots
+By @Naan_1_Kannadiga
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
+        [InlineKeyboardButton("💥 Start Generating Session 💥", callback_data="generate")],
         [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("💥 Start Generating Session 💥", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("💥 Start Generating Session 💥", callback_data="generate")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/naan_1_kannadiga")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Kannadiga_bots")],
     ]
 
     # Help Message
@@ -55,13 +55,13 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @Kannadiga_bots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://t.me/naan_1_kannadiga)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Entertainmrnt : [Pyrogram](https://t.me/masti_in_dosti)
 
-Language : [Python](www.python.org)
+Language : [Kannada](https://t.me/kannadiga_bots)
 
-Developer : @StarkProgrammer
+Developer : @Mr_Professor_Agotaora
     """
