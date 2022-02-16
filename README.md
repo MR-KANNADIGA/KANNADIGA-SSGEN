@@ -1,5 +1,5 @@
-# Pyrogram and Telethon String Session Bot [@StarkStringGenBot](https://t.me/ADMssgenBot
-)
+# Pyrogram and Telethon String Session Bot [@ADMssGenBot](https://t.me/ADMssgenBot)
+
 
 > A star ⭐ from you means a lot to us!
 
