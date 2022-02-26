@@ -15,7 +15,7 @@ If you don't trust this bot,
 Still reading? then join @Naan_1_Kannadiga and @Masti_in_Dosti
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @Mr_Professor_Agora
+By @Mr_StonedLegend
     """
 
     # Home Button
@@ -36,7 +36,7 @@ By @Mr_Professor_Agora
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Kannadiga_bots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/MrStonedLegend")],
     ]
 
     # Help Message
@@ -55,13 +55,13 @@ By @Mr_Professor_Agora
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @Kannadiga_bots
+A telegram bot to generate pyrogram and telethon string session by @MrStonedLegend
 
 Source Code : [Click Here](https://t.me/naan_1_kannadiga)
 
 Entertainmrnt : [Dosti Group](https://t.me/masti_in_dosti)
 
-Language : [Kannada](https://t.me/kannadiga_bots)
+Language : [Kannada](https://t.me/MrStonedLegend)
 
-Developer : @Mr_Professor_Agora
+Developer : @Mr_StonedLegend
     """
